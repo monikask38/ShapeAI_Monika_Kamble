@@ -1,2 +1,2 @@
-# ShapeAI_Monika_Kamble
-Bootcamp on Javascript and Backend Web Dev with Node.Js 7 Days Free by ShapeAI
+7 Days Free Bootcamp on Javascript and Backend Web Dev with Node.Js in collaboration with
+Google Developer Groups,  Microsoft Learn Student Ambassador Program, and AWS Students Club.
